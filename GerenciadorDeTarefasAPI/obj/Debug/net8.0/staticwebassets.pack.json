@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Tarefas\\GerenciadorDeTarefasAPI\\wwwroot\\adicionar.html",
+      "PackagePath": "staticwebassets\\adicionar.html"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Tarefas\\GerenciadorDeTarefasAPI\\wwwroot\\consultar.html",
+      "PackagePath": "staticwebassets\\consultar.html"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Tarefas\\GerenciadorDeTarefasAPI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Tarefas\\GerenciadorDeTarefasAPI\\wwwroot\\img\\—Pngtree—vector task icon_4091626.png",
+      "PackagePath": "staticwebassets\\img\\—Pngtree—vector task icon_4091626.png"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Tarefas\\GerenciadorDeTarefasAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo\\Desktop\\Tarefas\\GerenciadorDeTarefasAPI\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GerenciadorDeTarefasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GerenciadorDeTarefasAPI.props",
+      "PackagePath": "build\\GerenciadorDeTarefasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GerenciadorDeTarefasAPI.props",
+      "PackagePath": "buildMultiTargeting\\GerenciadorDeTarefasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GerenciadorDeTarefasAPI.props",
+      "PackagePath": "buildTransitive\\GerenciadorDeTarefasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
